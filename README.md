@@ -26,5 +26,5 @@ Replying to top 1 post on subreddit AskReddit.
 ```bash
 python post_replies.py "AskReddit" "data/results.csv" -l 1
 ```
-![Alt text](images/question.png)
-![Alt text](images/response.png)
+![Alt text](https://github.com/user-attachments/assets/077bc2dc-44bb-422d-be6f-25bf1f39e7be)
+![Alt text](https://github.com/user-attachments/assets/1376244c-5f29-4bb4-99e9-e8389b4c0761)
