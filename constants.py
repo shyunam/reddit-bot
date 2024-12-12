@@ -7,5 +7,3 @@ password = 'YOUR PASSWORD'
 
 # Chatgpt API Key
 APIKEY = 'YOUR API KEY'
-# Keywords to search in subreddit (Ignore if getting top posts)
-keywords = ['keyword1', 'keyword2']
